@@ -1,0 +1,24 @@
+{
+  "name": "@is-(unknown)/is-true",
+  "version": "1.0.0",
+  "description": "Check if a value is ACTUALLY TRUE!!!!!!!!!!!!!!!!",
+  "keywords": [
+    "istrue"
+  ],
+  "homepage": "https://github.com/is-unknown/is-true#readme",
+  "bugs": {
+    "url": "https://github.com/is-unknown/is-true/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/is-unknown/is-true.git"
+  },
+  "license": "MIT",
+  "author": "me",
+  "type": "commonjs",
+  "main": "index.js",
+  "dependencies": {
+    "is-not-true": "^1.0.2",
+    "is-true": "^0.1.1"
+  }
+}
