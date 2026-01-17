@@ -1,5 +1,3 @@
-const trueValue = require("true-value")()
+const helper = require("@falsejs/is-true-helper")
 
-module.exports = function (value) {
-  return value === trueValue
-}
+module.exports = helper

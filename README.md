@@ -8,7 +8,7 @@ $ npm install @is-(unknown)/is-true
 
 ## Usage
 ```js
-var isTrue = require('@is-(unknown)/is-true');
+var isTrue = require('@is-(unknown)/is-true')
 
 console.log(isTrue(true)) // true
 console.log(isTrue('anything else')) // false
